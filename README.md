@@ -1,0 +1,2 @@
+# SoftX
+CG project
